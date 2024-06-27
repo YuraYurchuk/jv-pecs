@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TruckProducer implements MachineProducer<Truck> {
-
     public TruckProducer() {
     }
 
